@@ -1,0 +1,13 @@
+*{
+    background: black;
+    padding:;
+    color: red;
+    text-align: center;
+   justify-content: center;
+}
+.signup h1{
+    margin: 20%;
+    font-weight: 700;
+    font-size: 4rem;
+    font-family: arial;
+}
